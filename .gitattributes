@@ -1,2 +1,3 @@
 * linguist-vendored
 *.ino linguist-vendored=true
+*.ino linguist-language=arduino
